@@ -62,8 +62,7 @@ Help quickly recap on what was going on and share broader context among teams. D
 - [Obsidian](https://obsidian.md/) as a knowledge base
 - [Visual Studio Code](https://code.visualstudio.com/) as a text editor
 - [Warp](https://www.warp.dev/) as a terminal
-- [Figma](https://www.figma.com/downloads/) and FigJam in particular for visualisations
-- [RStudio](https://posit.co/download/rstudio-desktop/) for deeper analytic
+- [Excalidraw](https://excalidraw.com/) for visualisations
 
 ---
 
